@@ -1,1 +1,26 @@
 List Of Mods As Of 22/12/19
+
+Advanced Rocketry
+Advanced Rocketry Tweaker (AR Tweaker)
+AE2 Wireless Terminal Library
+Akashic Tome
+Applied Energistics 2
+Astral Sorcery
+AutoRegLib
+baubles
+BdLib
+Better Advancements
+Better Builders Wands
+Better Questing
+Better Questing - Quest Book
+Better Questing - Standard Expansion
+Block Drops (JEI Addon)
+Bookshelf
+Botania
+Chameleon
+Chisel
+CodeChicken Lib 1.8.+
+CoFh Core
+CoFh World
+Common Capabilities
+ComputerCraft
