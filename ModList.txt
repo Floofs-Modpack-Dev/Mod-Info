@@ -24,3 +24,81 @@ CoFh Core
 CoFh World
 Common Capabilities
 ComputerCraft
+ConnectedTexturesMod
+Controlling
+CraftTweaker
+Cucumber Library
+Custom Main Menu
+Cyclops Core
+Dimension Stages
+Ender IO
+Ender Tweaker
+EnderCore
+Extended Crafting
+External Tweaker  //Used For Recipe Dev
+Extra Utilities
+ExtraCells2
+FoamFix
+Forestry
+FTB Backups
+FTB Library
+FTB Utilities
+Game Stages
+Gendustry
+Gendustry JEI Addon
+GregTech Community Edition
+Hwyla
+Immersive Cables
+Immersive Engineering
+Immersive Petroleum
+Immersive Tech
+Industrial Craft
+Integrated Crafting
+Integrated Dynamics
+Integrated REST
+Integrated Terminals
+Integrated Tunnels
+Invetory Tweaks
+Iron Chests
+JEI Bees
+JourneyMap
+JourneyMapStages
+Just Enough Items (JEI)
+Just Enough Resources (JEI)
+LibVulpes
+Mantle
+McJtyLib
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Mod Tweaker
+More Overlays
+Mouse Tweaks
+MTLib
+Mystical Agriculture
+NotEnoughIDs
+NuclearCraft
+OpenBlocks
+OpenModsLib
+Ore Stages
+p455w0rd's Library
+Railcraft
+ReAuth
+Redstone Flux
+Recipe Stages
+RFTools
+RFTools Control
+Storage Drawers
+Thaumcraft
+Thaumic JEI
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Tinkers JEI
+Tinkers Construct
+Tinker's Complement
+Tinker's Tool Leveing
+TinkerStages
+UniDict
+WanionLib
+Wireless Crafting Terminal
