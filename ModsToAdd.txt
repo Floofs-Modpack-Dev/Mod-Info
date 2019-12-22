@@ -5,7 +5,6 @@ Demagnetize
 Just Enough Energetics (JEE)
 Just Enough Petroleum
 Just Enough Throwing in Fluids
-Just Enough Resources (JER)
 Lapis Stays in the Enchanting Table
 Pam's HarvestCraft
 Cooking for Blockheads
