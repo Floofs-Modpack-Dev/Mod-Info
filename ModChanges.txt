@@ -1,2 +1,13 @@
 List Of Mod Additions/Removals As Of 22/12/19
 
+Added IC2 Tweaker
+Added Demagnetize
+Added Just Enough Energetics (JEE)
+Added Just Enough Petroleum
+Added Just Enough Throwing in Fluids
+Added Lapis Stays in the Enchanting Table
+Added Pam's HarvestCraft
+Added Cooking for Blockheads
+Added Farming for Blockheads
+Added Spice of Life: Carrot Edition
+Added Colytra
