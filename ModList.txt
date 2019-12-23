@@ -102,3 +102,17 @@ TinkerStages
 UniDict
 WanionLib
 Wireless Crafting Terminal
+
+Added 22/12/19
+
+IC2 Tweaker
+Demagnetize
+Just Enough Energetics (JEE)
+Just Enough Petroleum
+Just Enough Throwing in Fluids
+Lapis Stays in the Enchanting Table
+Pam's HarvestCraft
+Cooking for Blockheads
+Farming for Blockheads
+Spice of Life: Carrot Edition
+Colytra
