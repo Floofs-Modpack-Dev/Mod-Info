@@ -28,3 +28,13 @@ Apple Skin
 Mystical Agradditions
 IE Cloche Compat/MystAgrad Cloche Compat
 Better Questing - Forestry Expansion
+
+15/1/20
+Fast Leave Decay
+Thaumic Inventory Scanning
+Thaumic Tinkerer
+Thaumic Energistics
+Crafting Tweaks
+Research Table
+Kiwi
+Waila Harvestability
