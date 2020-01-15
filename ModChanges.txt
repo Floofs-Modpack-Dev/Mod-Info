@@ -21,3 +21,16 @@ Added Immersive Railroading
 10/1/20
 Added CEU
 Added Apple Skin 
+
+15/1/20
+Added IE Cloche Compat
+Added Mystical Agradditions
+Added Fast Leave Decay
+Added Thaumic Inventory Scanning
+Added Thaumic Tinkerer
+Added Thaumic Energistics
+Added Crafting Tweaks
+Added Research Table
+Added Kiwi
+Added Waila Harvestability
+Added Together Forever
