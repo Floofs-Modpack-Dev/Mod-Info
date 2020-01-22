@@ -1,0 +1,19 @@
+22/1/2020
+Updated AdvancedRocketry To 1.12.2-1.6.0-197
+Updated Astral Sorcey To 1.12.2-1.10.21
+Updated Better Questing To 3.5.320
+Updated Better Questing - Standard Expansion To 3.4.173
+Updated Botania To r1.10-363
+Updated Controlling To 3.0.8
+Updated Cooking for Blockheads To 1.12.2-6.5.0
+Updated Custom Main Menu To 1.12.2-2.0.9.1
+Updated Ender IO To 1.12.2-5.1.55
+Updated Ender Tweaker To1.12.2-1.2.0
+Updated ExtraCells2 To 1.12.2-2.6.5
+Updated FoamFix​ To 0.10.10-1.12.2
+Updated JourneyMap To 1.12.2-5.5.6
+Updated NuclearCraft To 2.18o-1.12.2
+Updated RFTools To 1.12-7.73
+Updated Tinkers Construct To 1.12.2-2.13.0.171
+Updated Tinkers' Complement To 1.12.2-0.4.3
+Updated UniDict To 1.12.2-2.9.5
