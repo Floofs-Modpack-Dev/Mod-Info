@@ -11,7 +11,6 @@ Updated Ender IO To 1.12.2-5.1.55
 Updated Ender Tweaker To1.12.2-1.2.0
 Updated ExtraCells2 To 1.12.2-2.6.5
 Updated FoamFix​ To 0.10.10-1.12.2
-Updated JourneyMap To 1.12.2-5.5.6
 Updated NuclearCraft To 2.18o-1.12.2
 Updated RFTools To 1.12-7.73
 Updated Tinkers Construct To 1.12.2-2.13.0.171
