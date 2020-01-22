@@ -17,19 +17,19 @@ Tails
 FoxLib
 Immersive Floofs
 
-5/01/20
+5/01/2020
 Immersive Railroading
 
-9/1/20
+9/1/2020
 CEU
 
-10/1/20
+10/1/2020
 Apple Skin
 Mystical Agradditions
 IE Cloche Compat/MystAgrad Cloche Compat
 Better Questing - Forestry Expansion
 
-15/1/20
+15/1/2020
 Fast Leave Decay
 Thaumic Inventory Scanning
 Thaumic Tinkerer
@@ -40,3 +40,6 @@ Kiwi
 Waila Harvestability
 Together Forever
 Toast Control
+
+22/1/2020
+Item Stages

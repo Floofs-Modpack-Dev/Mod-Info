@@ -1,4 +1,4 @@
-List Of Mods As Of 22/12/19
+List Of Mods As Of 22/12/2019
 
 Advanced Rocketry
 Advanced Rocketry Tweaker (AR Tweaker)
@@ -103,7 +103,7 @@ UniDict
 WanionLib
 Wireless Crafting Terminal
 
-Added 22/12/19
+Added 22/12/2019
 
 IC2 Tweaker
 Demagnetize
@@ -117,17 +117,17 @@ Farming for Blockheads
 Spice of Life: Carrot Edition
 Colytra
 
-Added 6/1/20
+Added 6/1/2020
 Tails
 FoxLib
 Immersive Floofs
 Immersive Railroading
 
-Added 10/1/20
+Added 10/1/2020
 CEU
 Apple Skin 
 
-Added 15/1/20
+Added 15/1/2020
 IE Cloche Compat
 Mystical Agradditions
 Fast Leave Decay
@@ -140,3 +140,6 @@ Kiwi
 Waila Harvestability
 Together Forever
 Toast Control
+
+Added 22/1/2020
+Item Stages

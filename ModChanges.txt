@@ -1,4 +1,4 @@
-List Of Mod Additions/Removals As Of 22/12/19
+List Of Mod Additions/Removals As Of 22/12/2019
 
 Added IC2 Tweaker
 Added Demagnetize
@@ -12,17 +12,17 @@ Added Farming for Blockheads
 Added Spice of Life: Carrot Edition
 Added Colytra
 
-6/1/20
+6/1/2020
 Added Tails
 Added FoxLib
 Added Immersive Floofs
 Added Immersive Railroading
 
-10/1/20
+10/1/2020
 Added CEU
 Added Apple Skin 
 
-15/1/20
+15/1/2020
 Added IE Cloche Compat
 Added Mystical Agradditions
 Added Fast Leave Decay
