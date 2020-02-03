@@ -16,3 +16,6 @@ Updated RFTools To 1.12-7.73
 Updated Tinkers Construct To 1.12.2-2.13.0.171
 Updated Tinkers' Complement To 1.12.2-0.4.3
 Updated UniDict To 1.12.2-2.9.5
+
+25/1/2020
+Updated GregTech Community Edition To 1.12.2-1.9.0.481
