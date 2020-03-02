@@ -30,3 +30,4 @@ Updated ModTweaker To 4.0.18
 Updated Storage Drawers To 1.12.2-5.4.1
 Updated Tinkers Construct To 1.12.2-2.13.0.179
 Updated UniDict To 1.12.2-2.9.6
+Updated LibVulpes To 1.12.2-0.4.2-74
